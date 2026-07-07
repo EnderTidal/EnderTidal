@@ -1,8 +1,8 @@
-# Josh Tibbetts
+# Joshua Tibbetts
 
-Navy veteran. AI engineer. Builder.
+Navy veteran. AI engineer. Data analyst. Builder.
 
-8 years active duty — Cybernetics & Electronic Warfare Systems, submarines. Spent downtime filling notebooks with system architectures that didn't have a runtime yet. Now they do.
+8 years active duty — Electrician's Mate Nuclear, US Navy Submarine Force. BS Data Analytics. Spent downtime filling notebooks with system architectures that didn't have a runtime yet. Now they do.
 
 ---
 
@@ -44,9 +44,9 @@ A production RAG business advisor built on Hormozi's published frameworks. Real 
 
 ## Background
 
-Submariner → ministry work → 8 years Navy cybernetics & EW → AI engineering. The throughline is systems — understanding them, building them, making them work under constraints that don't forgive sloppiness.
+Ministry work → submariner → 8 years Navy nuclear engineering → BS Data Analytics → AI engineering. The throughline is systems — understanding them, building them, making them work under constraints that don't forgive sloppiness.
 
-I don't have a CS degree. I have 5 production systems, a submarine notebook full of architectures that predicted the current stack, and 14 months of uninterrupted output.
+BS Data Analytics (WGU, 2026). 5 production AI systems. A submarine notebook full of architectures that predicted the current stack.
 
 ---
 
