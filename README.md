@@ -1,31 +1,23 @@
-# Joshua Tibbetts
+# Josh Tibbetts
 
-Product engineer building the interface where humans interact with AI.
+**Navy nuclear engineer → AI systems builder**
 
-Navy veteran (8 years, nuclear submarine force). BS Data Analytics. I build consumer-facing products on top of large language models -- streaming chat interfaces, real-time conversational systems, AI-native applications that actual users depend on daily.
+I build production AI systems that run real businesses — not demos, not prototypes.
 
----
+## What I've Built
 
-## What I Build
+| Project | What it does | Stack | Demo |
+|---------|-------------|-------|------|
+| **[ACQ Advisor](https://github.com/EnderTidal/acq-advisor)** | RAG chatbot over Acquisition.com's frameworks | Claude API, Qdrant, Cloudflare Workers | [Live demo](https://joshua-tibbetts.thetelosway.com) |
+| **[IRIS Blueprint](https://github.com/EnderTidal/iris-blueprint)** | 4-persona AI executive assistant with persistent memory | Claude Code, PostgreSQL, Qdrant, Telegram | Architecture doc |
+| **[JobLink](https://github.com/EnderTidal/joblink-v2)** | AI-powered candidate pipeline for staffing agencies | Node.js, SQLite, Anthropic API, Whippy SMS | [Live product](https://joblink2.thetelosway.com) |
+| **[BillyFit](https://github.com/EnderTidal/billy-engine)** | AI fitness coaching engine with food logging and workout programming | Node.js, PostgreSQL, Claude API, Telegram | Production (private beta) |
 
-**[ACQ Advisor](https://joshua-tibbetts.thetelosway.com)** -- Live streaming AI chat interface. RAG-powered business advisor with real-time response streaming, vector search with retrieval scoring, and per-session cost tracking. React, Claude API, Cloudflare Workers. [Source](https://github.com/EnderTidal/acq-advisor).
+## The Pattern
 
-**BillyFit** -- AI fitness coaching product. React 19 webapp with conversational coaching engine, adaptive programming, check-in flows, and nutrition tracking. Serving real users in production. React, TypeScript, Cloudflare Pages, PostgreSQL, Claude API.
+Every system follows **Z-Based Design**: start with the most powerful AI model, progressively shift to cheaper/deterministic solutions as the problem stabilizes. The result is production systems that are both capable and cost-efficient.
 
-**IRIS Blueprint** -- Architecture for production AI assistant systems. Multi-persona routing, persistent memory (PostgreSQL + Qdrant), autonomous operations, structured context delivery via Human Context Protocol. A reference for how to build AI systems that operate independently, not just respond.
+## Contact
 
----
-
-## Human Context Protocol
-
-A framework I developed for structured context delivery to AI systems. HCP solves the gap between what an AI model can do and what it actually does in production -- by giving it the right context, in the right structure, at the right time. The difference between an AI that knows what to do and one that asks.
-
----
-
-## Stack
-
-`React` · `TypeScript` · `Tailwind` · `Node.js` · `PostgreSQL` · `Claude API` · `Cloudflare Workers/Pages`
-
----
-
-*Port Orchard, WA*
+- Email: joshuafriends@gmail.com
+- LinkedIn: [Joshua Tibbetts](https://www.linkedin.com/in/joshua-tibbetts/)
